@@ -24,3 +24,6 @@ C:\Users\Gi\Documents\Gi\SA43\Venkat\CA\Library13B\Library13A\obj\Debug\Library1
 C:\Users\Gi\Documents\Gi\SA43\Venkat\CA\Library13B\Library13A\obj\Debug\Library13A.ReturnBook.resources
 C:\Users\Gi\Documents\Gi\SA43\Venkat\CA\Library13B\Library13A\obj\Debug\Library13A.Update_Book.resources
 C:\Users\Gi\Documents\Gi\SA43\Venkat\CA\Library13B\Library13A\obj\Debug\Library13A.csproj.GenerateResource.Cache
+C:\Users\Gi\Documents\Gi\SA43\Venkat\CA\CA\Library13B\Library13A\bin\Debug\Library13A.exe.config
+C:\Users\Gi\Documents\Gi\SA43\Venkat\CA\CA\Library13B\Library13A\obj\Debug\Library13A.exe
+C:\Users\Gi\Documents\Gi\SA43\Venkat\CA\CA\Library13B\Library13A\obj\Debug\Library13A.pdb
